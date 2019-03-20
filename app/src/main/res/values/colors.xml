@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="screen_background">#DADADA</color>
+
+    <color name="bg_search_zone">#CBEEF7FD</color>
+
+    <color name="theme">#ff00bfff</color>
+    <color name="translucent">#77000000</color>
+    <color name="arcTouchColor">#f7a603</color>
+
+</resources>

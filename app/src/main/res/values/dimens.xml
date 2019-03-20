@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="progress_margin">32dp</dimen>
+    <dimen name="itemImageHeight">300dp</dimen>
+    <dimen name="itemPopularityHeight">20dp</dimen>
+    <dimen name="detailPosterHeight">240dp</dimen>
+
+</resources>
